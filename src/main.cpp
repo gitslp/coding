@@ -22,7 +22,7 @@ int main (int argc, char ** argv)
     Myclass::GetStatPub();      // fonction statique pas besoin d'objet pour etre appellee
 
 
-    std::cout << "coucou" << std::endl;
+    std::cout << "coucoue" << std::endl;
     //std::cout << "\x1B[2J\x1B[H";
    
     //window.Loop(1000);
