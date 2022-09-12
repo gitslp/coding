@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 __Advertisement :)__
 
@@ -243,3 +244,8 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+=======
+# The largest heading
+## The second largest heading
+###### The smallest heading
+>>>>>>> 7b1264a (bardaff)
