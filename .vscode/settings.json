@@ -44,5 +44,12 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/samuel/Documents/GitRepos/c++",
+            "binaryPath": "/home/samuel/Documents/GitRepos/c++/myapp",
+            "binaryArgs": []
+        }
+    ]
 }
